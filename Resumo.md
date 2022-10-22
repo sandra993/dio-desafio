@@ -1,14 +1,27 @@
 # Resumo Git/Github: :books: :writing_hand:
 
-### Comandos:
+### Comandos Git:
 
-- Mudar de pasta:
+- Mudar de pasta: cd + nome da pasta
+- Voltar um nível de navegação: cd ..
 
-- Lista de pastas:
+- Lista de pastas: ls / dir
 
-- Criar pastas/arquivos:
-- Deletar pastas/arquivos:
+- Criar pastas/arquivos: mkdir
+- Deletar pastas/arquivos: delete
+- limpar a tela: ctrl+l
+- tecla Tab completa a escrita
 - 
+
+
+
+
+
+
+
+
+
+### Como criar um arquivo:
 
 
 
